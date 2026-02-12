@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+    
+}
+.ex1 {
+    border: 6px solid black;
+}
+.ex2 {
+    border: 6px dashed black;
+    border-width: medium;
+}
+
+.ex3 {
+    border: 6px dotted black;
+    border-width: thick;
+}
+.ex4 {
+    border: 6px double black;
+    border-width: thin;
+}
+.ex5 {
+    border: 6px groove rgb(145, 161, 102);
+    border-width: 10px;
+    border-color: blue red green yellow;
+}
+
+.ex6 {
+    border-top-style: solid;
+    border-right-style: dotted;
+    border-bottom-style: double;
+    border-left-style: none;
+}
+.ex7 {
+    border: 6px solid rgb(47, 148, 123);
+    border-radius: 20px;
+}

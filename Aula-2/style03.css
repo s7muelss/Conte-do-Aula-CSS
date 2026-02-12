@@ -1,0 +1,9 @@
+body{
+    background-color: white;
+}
+.ex1 {
+    background-color: blueviolet;
+    width: 400px;
+    margin:auto;
+   padding: 50px 100px 20px 10px;
+}

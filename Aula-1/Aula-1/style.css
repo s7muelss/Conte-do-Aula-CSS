@@ -1,0 +1,29 @@
+body {
+    background-color: white;
+    justify-items: center;
+}
+
+h1 {
+    background-color: rgba(184, 171, 57, 0.678);
+    color: rosybrown;
+    text-align: center;
+    border: 2px solid black;
+    opacity: 0.5;
+}    /* opacity: 0.5 */
+
+
+h2 {
+    background-color: rgb(11, 184, 11);
+    color: darkblue;
+    text-align: left;
+    border: 2px solid black;
+     /* opacity: 0.5 */
+}
+
+p {
+    background-color: rgb(145, 61, 46);
+    color: white;
+    text-align: justify;
+    border: 2px solid black;
+    /* opacity: 0.5 */
+}
