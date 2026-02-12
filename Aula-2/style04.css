@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(228, 163, 147, 0.747);
+    justify-items: center;
+}
+
+.el1 {
+    width: 500px;
+}
+.ex1 {
+    background-color: blueviolet;
+    width: 400px;
+    padding: 50px;
+    box-sizing: border-box;
+}
