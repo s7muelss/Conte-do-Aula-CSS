@@ -1,0 +1,14 @@
+body {
+    background-color: blueviolet;
+}
+
+.ex1 {
+    outline-style: solid;
+    border: 3px solid black;
+    outline-width: 10px;
+    outline-color: red;
+    width: 400px;
+    margin: 30px auto;
+    background-color: lightcoral;
+    outline-offset: 10px;
+}
